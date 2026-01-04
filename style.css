@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.main{
+    width: 100%;
+    height: max-content;
+    padding: 1rem;
+    background-color: aqua;
+}
+
+
+.text-heading{
+width: 100%;
+display: flex;
+justify-content: center;
+
+}
+
+article h2{
+border: 2px solid;
+border-color: rgb(red, green, blue);
+text-align: center;
+
+}
